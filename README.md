@@ -1,4 +1,4 @@
-# Nazrin Color Generator
+# Color Generator
 
 This project is a simple web application built using React.js that allows users to generate different shades of colors. The app is hosted on [Netlify](https://nazrin-generate-color.netlify.app/).
 
