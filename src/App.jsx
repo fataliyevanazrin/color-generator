@@ -1,5 +1,5 @@
 import Form from './Form.jsx'
-import ColorList from "./Colorlist.jsx";
+import ColorList from "./ColorList.jsx";
 import Values from "values.js";
 import {useState} from "react";
 import {ToastContainer, toast} from "react-toastify";
